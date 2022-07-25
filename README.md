@@ -1,8 +1,12 @@
-## "Night Watchers" Movie Seachering App Using ReactJS 
+## "Night Watchers" Movie Searching App Using ReactJS 
 ***
 ### Overview
 
 This is a React App. The main function of it is to provide the searching function in order to search a certain movie that the user want. The detail information, such as release date, rating score, overview and stage photo are also able to be seen by just clicking the movie poster.
+
+### Deployment
+
+https://singhvaibhav924.github.io/Night-Watchers/
 
 ### Details
 
