@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Night-Watchers/static/css/main.ba8cce33.css",
+    "main.js": "/Night-Watchers/static/js/main.957481d7.js",
+    "index.html": "/Night-Watchers/index.html",
+    "main.ba8cce33.css.map": "/Night-Watchers/static/css/main.ba8cce33.css.map",
+    "main.957481d7.js.map": "/Night-Watchers/static/js/main.957481d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8cce33.css",
+    "static/js/main.957481d7.js"
+  ]
+}
